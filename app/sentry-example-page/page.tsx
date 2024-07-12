@@ -5,7 +5,7 @@ import * as Sentry from "@sentry/nextjs";
 
 export default function Page() {
   return (
-    <div>
+    <div className="">
       <Head>
         <title>Sentry Onboarding</title>
         <meta name="description" content="Test Sentry for your Next.js app!" />

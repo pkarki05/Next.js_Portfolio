@@ -9,15 +9,19 @@ const  Approach=()=> {
       <section className='w-full py-20 '>
         <h1 className='heading'>My <span className='text-purple'>Approach</span></h1>
         <div className="my-20 flex flex-col lg:flex-row items-center justify-center gap-4">
-          <Card title="Planning & Strategy" icon={<AceternityIcon order='Phase 1' />}
-          description='Hi thi is ready to made project'>
+          <Card title="Philosophy and Values" icon={<AceternityIcon order='Phase 1' />}
+          description=' believe in creating high-quality, efficient, and maintainable code. 
+          My goal is to build user-centric designs that are both intuitive and accessible, 
+          ensuring a seamless experience for all users.'>
             <CanvasRevealEffect
               animationSpeed={5.1}
               containerClassName="bg-emerald-900"
             />
           </Card>
-          <Card title="Nisha is Munni" icon={<AceternityIcon  order='Phase 2'/>}
-          description='This my phase2 description'>
+          <Card title="Collaboration and communication" icon={<AceternityIcon  order='Phase 2'/>}
+          description='Effective collaboration and communication are key to successful projects. 
+          I have experience working in diverse teams and ensure clear and consistent communication
+           with team members and clients to deliver the best results.'>
             <CanvasRevealEffect
               animationSpeed={3}
               containerClassName="bg-black"
@@ -29,8 +33,10 @@ const  Approach=()=> {
             />
             
           </Card>
-          <Card title="Munni is Aditi" icon={<AceternityIcon order='Phase 3'/>}
-          description='This is my phase 3 description'>
+          <Card title="Problem-Solving" icon={<AceternityIcon order='Phase 3'/>}
+          description='I approach problems analytically, breaking them down into
+           manageable parts and systematically finding solutions. I am adaptable and 
+           open to learning new technologies and methods to overcome challenges and achieve project goals.'>
             <CanvasRevealEffect
               animationSpeed={3}
               containerClassName="bg-sky-600"
