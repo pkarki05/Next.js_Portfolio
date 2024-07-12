@@ -7,6 +7,8 @@ import { div } from 'three/examples/jsm/nodes/Nodes.js'
 const Footer = () => {
   return (
     <footer className='w-full mb-[80px] md:mb-5  pb-20' id='contact'>
+        {/* <!-- This is a test change to verify Git commit --> */}
+
          
         <div className='flex flex-col items-center'>
             <h1 className='heading lg:max-w-[45vw]'> Ready to contribute to achieve a

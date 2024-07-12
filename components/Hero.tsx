@@ -28,7 +28,7 @@ const Hero = () => {
           words='Transforming Concepts into Seamless User Experience'
           />
           <p className='text-center justify-center md:tracking-widest mb-4 text-sm md:text-lg lg:text-2xl'>
-          Hi, I'm Prakash Karki, a passionate front-end developer with a focus on creating seamless user experiences
+          Hi, I&apos;m Prakash Karki, a passionate front end developer with a focus on creating seamless user experiences
            using modern technologies like React, Next.js, and TypeScript.</p>
             
       </div>
